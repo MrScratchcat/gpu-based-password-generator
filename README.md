@@ -1,6 +1,6 @@
 # gpu-based-password-generator
 it creates passwords superfast
-bash```
+```bash
 sudo apt install nvidia-cuda-toolkit
 ```
 
