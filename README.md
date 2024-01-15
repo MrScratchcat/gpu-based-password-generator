@@ -16,5 +16,5 @@ nvcc -arch=sm_80 -o passwordGenerator passwordGenerator.cu
 
 # if you want the passwords to be safed in a file type this:
 ```bash
-./passwordGenerator 4 12 > passwords.txt
+./passwordGenerator 4 12 >> passwords.txt
 ```
